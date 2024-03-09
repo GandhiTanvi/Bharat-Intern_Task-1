@@ -1,2 +1,2 @@
 # Bharat-Intern_Task-1
-SMS Classifier model using Naive Bayes
+Develop a text classification model to classify SMS as either spam or non-spam using data science techniques in Python.
